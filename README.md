@@ -1,2 +1,1 @@
-# CW-Assignments
 # cw1
